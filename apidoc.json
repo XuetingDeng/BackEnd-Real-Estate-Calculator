@@ -1,0 +1,13 @@
+{
+    "name": "My real-estate-calc API", 
+    "version": "1.0.0", 
+    "description": "API documentation", 
+    "title": "API Documentation", 
+    "url": "http://localhost:3000/api", 
+    "sampleUrl": false, 
+    "template": {
+      "withCompare": true, 
+      "withGenerator": true
+    }
+  }
+  
